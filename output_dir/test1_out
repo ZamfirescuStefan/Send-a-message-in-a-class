@@ -1,0 +1,12 @@
+Solutie 1: 
+ionel > alina v diana v costin v simona v razvan v andrei >> oana ^ radu > patricia
+Cost: 9
+Timpul de gesire al solutiei: 0.0009911060333251953
+----------------
+
+Solutie 2: 
+ionel > alina < ionel > alina v diana v costin v simona v razvan v andrei >> oana ^ radu > patricia
+Cost: 11
+Timpul de gesire al solutiei: 0.0036339759826660156
+----------------
+
