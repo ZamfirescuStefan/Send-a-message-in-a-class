@@ -1,0 +1,77 @@
+          ----- A star euristica 1 -----
+Limita de timp a fost deparita: 
+
+
+          ----- A star euristica 2 -----
+Solutie 1: 
+ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol >> maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi ^ dorel ^ elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel ^ tamara
+Lungime: 56
+Cost: 5
+Timpul de gasire al solutiei: 0.026162147521972656s
+Numarul maxim de noduri la un moment dat este: 734
+Numarul total de noduri este: 1198
+---------------------------------------------------------
+
+Solutie 2: 
+ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol >> maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi < maria > gabi ^ dorel ^ elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel ^ tamara > dragos < tamara
+Lungime: 58
+Cost: 5
+Timpul de gasire al solutiei: 0.026304960250854492s
+Numarul maxim de noduri la un moment dat este: 736
+Numarul total de noduri este: 1202
+---------------------------------------------------------
+
+
+          ----- A star euristica neadmisibila -----
+Limita de timp a fost deparita: 
+
+
+          ----- A star euristica banala -----
+Limita de timp a fost deparita: 
+
+
+          ----- A star optimizat euristica 1 -----
+Solutie: ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol >> maria > gabi ^ dorel ^ elena < gigel ^ tamara
+Lungime: 24
+Cost: 5
+Timpul de gesire al solutiei: 0.011478185653686523s
+Numarul maxim de noduri la un moment dat este: 147
+Numarul total de noduri este: 514
+---------------------------------------------------------
+
+
+          ----- A star optimizat euristica 2-----
+Solutie: ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol >> maria > gabi ^ dorel ^ elena < gigel ^ tamara
+Lungime: 24
+Cost: 5
+Timpul de gesire al solutiei: 0.009329795837402344s
+Numarul maxim de noduri la un moment dat este: 69
+Numarul total de noduri este: 557
+---------------------------------------------------------
+
+
+          ----- A star optimizat euristica neadmisibila-----
+Solutie: ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol >> maria > gabi ^ dorel ^ elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel > elena < gigel ^ tamara
+Lungime: 40
+Cost: 5
+Timpul de gesire al solutiei: 0.04691600799560547s
+Numarul maxim de noduri la un moment dat este: 220
+Numarul total de noduri este: 1609
+---------------------------------------------------------
+
+
+          ----- A star optimizat euristica banala -----
+Solutie: ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol < ela > nicol >> maria > gabi ^ dorel ^ elena < gigel ^ tamara
+Lungime: 24
+Cost: 5
+Timpul de gesire al solutiei: 0.05389118194580078s
+Numarul maxim de noduri la un moment dat este: 174
+Numarul total de noduri este: 1973
+---------------------------------------------------------
+
+
+          ----- UCS -----
+Limita de timp a fost deparita: 
+
+          ----- IDA star -----
+Limita de timp a fost deparita: 

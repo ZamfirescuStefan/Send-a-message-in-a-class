@@ -1,12 +1,151 @@
+          ----- A star euristica 1 -----
 Solutie 1: 
-ionel
-Cost: 0
-Timpul de gesire al solutiei: 7.152557373046875e-07
-----------------
+ionel > alina v diana v costin v simona v razvan v andrei v alex
+Lungime: 8
+Cost: 6
+Timpul de gasire al solutiei: 0.0001590251922607422s
+Numarul maxim de noduri la un moment dat este: 6
+Numarul total de noduri este: 12
+---------------------------------------------------------
 
 Solutie 2: 
-ionel > alina < ionel
-Cost: 2
-Timpul de gesire al solutiei: 8.893013000488281e-05
-----------------
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei v alex
+Lungime: 10
+Cost: 6
+Timpul de gasire al solutiei: 0.0003261566162109375s
+Numarul maxim de noduri la un moment dat este: 7
+Numarul total de noduri este: 20
+---------------------------------------------------------
 
+
+          ----- A star euristica 2 -----
+Solutie 1: 
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei v alex
+Lungime: 10
+Cost: 6
+Timpul de gasire al solutiei: 0.00020313262939453125s
+Numarul maxim de noduri la un moment dat este: 3
+Numarul total de noduri este: 13
+---------------------------------------------------------
+
+Solutie 2: 
+ionel > alina v diana v costin v simona v razvan v andrei v alex
+Lungime: 8
+Cost: 6
+Timpul de gasire al solutiei: 0.00033020973205566406s
+Numarul maxim de noduri la un moment dat este: 5
+Numarul total de noduri este: 20
+---------------------------------------------------------
+
+
+          ----- A star euristica neadmisibila -----
+Solutie 1: 
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei v alex
+Lungime: 10
+Cost: 6
+Timpul de gasire al solutiei: 0.00031185150146484375s
+Numarul maxim de noduri la un moment dat este: 7
+Numarul total de noduri este: 24
+---------------------------------------------------------
+
+Solutie 2: 
+ionel > alina v diana v costin v simona v razvan v andrei v alex
+Lungime: 8
+Cost: 6
+Timpul de gasire al solutiei: 0.0004258155822753906s
+Numarul maxim de noduri la un moment dat este: 10
+Numarul total de noduri este: 32
+---------------------------------------------------------
+
+
+          ----- A star euristica banala -----
+Solutie 1: 
+ionel > alina v diana v costin v simona v razvan v andrei v alex
+Lungime: 8
+Cost: 6
+Timpul de gasire al solutiei: 0.0002548694610595703s
+Numarul maxim de noduri la un moment dat este: 3
+Numarul total de noduri este: 16
+---------------------------------------------------------
+
+Solutie 2: 
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei v alex
+Lungime: 10
+Cost: 6
+Timpul de gasire al solutiei: 0.0003218650817871094s
+Numarul maxim de noduri la un moment dat este: 5
+Numarul total de noduri este: 20
+---------------------------------------------------------
+
+
+          ----- A star optimizat euristica 1 -----
+Solutie: ionel > alina v diana v costin v simona v razvan v andrei v alex
+Lungime: 8
+Cost: 6
+Timpul de gesire al solutiei: 0.00015807151794433594s
+Numarul maxim de noduri la un moment dat este: 6
+Numarul total de noduri este: 12
+---------------------------------------------------------
+
+
+          ----- A star optimizat euristica 2-----
+Solutie: ionel > alina v diana v costin v simona v razvan v andrei v alex
+Lungime: 8
+Cost: 6
+Timpul de gesire al solutiei: 0.00015974044799804688s
+Numarul maxim de noduri la un moment dat este: 6
+Numarul total de noduri este: 12
+---------------------------------------------------------
+
+
+          ----- A star optimizat euristica neadmisibila-----
+Solutie: ionel > alina v diana v costin v simona v razvan v andrei v alex
+Lungime: 8
+Cost: 6
+Timpul de gesire al solutiei: 0.00029921531677246094s
+Numarul maxim de noduri la un moment dat este: 5
+Numarul total de noduri este: 22
+---------------------------------------------------------
+
+
+          ----- A star optimizat euristica banala -----
+Solutie: ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei v alex
+Lungime: 10
+Cost: 6
+Timpul de gesire al solutiei: 0.00026416778564453125s
+Numarul maxim de noduri la un moment dat este: 2
+Numarul total de noduri este: 16
+---------------------------------------------------------
+
+
+          ----- UCS -----
+Solutie 1: 
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei v alex
+Lungime: 10
+Cost: 6
+Timpul de gesire al solutiei: 0.0002868175506591797s
+Numarul maxim de noduri la un moment dat este: 4
+Numarul total de noduri este: 18
+---------------------------------------------------------
+
+Solutie 2: 
+ionel > alina v diana v costin v simona v razvan v andrei v alex
+Lungime: 8
+Cost: 6
+Timpul de gesire al solutiei: 0.000335693359375s
+Numarul maxim de noduri la un moment dat este: 5
+Numarul total de noduri este: 20
+---------------------------------------------------------
+
+
+          ----- IDA star -----
+Solutie: 
+ionel > alina v diana v costin v simona v razvan v andrei v alex
+Lungime: 8
+Cost: 6
+----------------
+Solutie: 
+ionel > alina v diana v costin v simona < luiza v mihnea > razvan v andrei v alex
+Lungime: 10
+Cost: 6
+----------------

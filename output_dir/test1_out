@@ -1,12 +1,20 @@
-Solutie 1: 
-ionel > alina v diana v costin v simona v razvan v andrei >> oana ^ radu > patricia
-Cost: 9
-Timpul de gesire al solutiei: 0.0009911060333251953
-----------------
+          ----- A star euristica 1 -----
 
-Solutie 2: 
-ionel > alina < ionel > alina v diana v costin v simona v razvan v andrei >> oana ^ radu > patricia
-Cost: 11
-Timpul de gesire al solutiei: 0.0036339759826660156
-----------------
+          ----- A star euristica 2 -----
 
+          ----- A star euristica neadmisibila -----
+
+          ----- A star euristica banala -----
+
+          ----- A star optimizat euristica 1 -----
+
+          ----- A star optimizat euristica 2-----
+
+          ----- A star optimizat euristica neadmisibila-----
+
+          ----- A star optimizat euristica banala -----
+
+          ----- UCS -----
+
+          ----- IDA star -----
+This input has no solutions .... :(
